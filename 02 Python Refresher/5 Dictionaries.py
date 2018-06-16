@@ -31,6 +31,9 @@ def average_grade_all_student(student_list):
 #         count += len(student['grades'])
 #     return total/count
 
+
+
+
 print(average_grade(student1))
 print(average_grade_all_student(class_of_students))
 # print(average_grade_all_student2(class_of_students))
