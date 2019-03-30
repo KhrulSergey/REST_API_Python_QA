@@ -1,0 +1,20 @@
+[
+  "integration_test/blog_test.py::IntegrationBlogTest::test_create_post",
+  "integration_test/blog_test.py::IntegrationBlogTest::test_json",
+  "integration_test/blog_test.py::IntegrationBlogTest::test_json_no_posts",
+  "system/app_test.py::AppTest::test_ask_create_post",
+  "system/app_test.py::AppTest::test_ask_read_blog",
+  "system/app_test.py::AppTest::test_create_blog",
+  "system/app_test.py::AppTest::test_is_menu_calls_ask_create_post",
+  "system/app_test.py::AppTest::test_is_menu_calls_ask_read_blog",
+  "system/app_test.py::AppTest::test_is_menu_calls_create_blogs",
+  "system/app_test.py::AppTest::test_is_menu_calls_print_blogs",
+  "system/app_test.py::AppTest::test_is_menu_calls_print_list_blogs",
+  "system/app_test.py::AppTest::test_is_menu_print_promt",
+  "system/app_test.py::AppTest::test_print_blogs",
+  "system/app_test.py::AppTest::test_print_post",
+  "system/app_test.py::AppTest::test_print_posts",
+  "unit/blog_test.py::BlogTest::test_create_blog",
+  "unit/post_test.py::PostTest::test_create_post",
+  "unit/post_test.py::PostTest::test_json_post"
+]
